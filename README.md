@@ -14,4 +14,6 @@ Discord's Aegis system. High-powered moderation; NG words in 15 languages; const
 
 - Discord support : https://discord.gg/aq4sc9fp8F
 - Discord community : https://discord.gg/Ejdk8t2xWG
+<div align = "center">
 Category : BotAPI : discord : Moderate
+</div>
