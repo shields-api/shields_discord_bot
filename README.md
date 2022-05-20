@@ -17,3 +17,32 @@ Discord's Aegis system. High-powered moderation; NG words in 15 languages; const
 <div align = "center">
 Category : BotAPI : discord : Moderate
 </div>
+
+## Starting develope the botAPI !!🎉🎉🎉
+
+[Please tell us, about What do you need for features?](https://discord.gg/Ejdk8t2xWG)
+
+## Default Features
+### Manage
+- (Auto) Moderation Plugin
+- Mod Fillter plugin
+- Annnouncements Plugin
+- Status Plugin
+- Gatekeaper Plugin
+- Reaction/Dropdown/Button Action Plugin
+- Rule/Guidelines Manager Plugin
+
+### Custom
+- Custom Slash/Normal commands Plugin
+- Custom Responder Plugin
+- Custom Log Message Plugin
+- Custom AFK Time Plugin
+
+### General
+- Levels Plugin
+- Economy Plugin
+- Music Plugin
+- Search Plugin
+- Birthdays Plugin
+- Giveaways Plugin
+- Discussion Plugin
