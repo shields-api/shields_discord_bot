@@ -18,11 +18,11 @@ Discord's Aegis system. High-powered moderation; NG words in 15 languages; const
 Category : BotAPI : discord : Moderate
 </div>
 
-<h1 align = "center">Starting develope the botAPI !!🎉🎉🎉</h1>
+<h2 align = "center">Development Started!!</h2>
 
 [Please tell us, about What do you need for features?](https://discord.gg/Ejdk8t2xWG)
 
-## Default Features
+<h2 align = "center">Default Features</h2>
 ### Manage
 - (Auto) Moderation Plugin
 - Mod Fillter plugin
