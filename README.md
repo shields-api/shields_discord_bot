@@ -18,7 +18,7 @@ Discord's Aegis system. High-powered moderation; NG words in 15 languages; const
 Category : BotAPI : discord : Moderate
 </div>
 
-## Starting develope the botAPI !!🎉🎉🎉
+<h1 align = "center">Starting develope the botAPI !!🎉🎉🎉</h1>
 
 [Please tell us, about What do you need for features?](https://discord.gg/Ejdk8t2xWG)
 
