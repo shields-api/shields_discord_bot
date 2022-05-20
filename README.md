@@ -23,6 +23,7 @@ Category : BotAPI : discord : Moderate
 [Please tell us, about What do you need for features?](https://discord.gg/Ejdk8t2xWG)
 
 <h2 align = "center">Default Features</h2>
+
 ### Manage
 - (Auto) Moderation Plugin
 - Mod Fillter plugin
