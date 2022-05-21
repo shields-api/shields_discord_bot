@@ -1,4 +1,4 @@
-Languages : [EN(uk)](./README-language/en-uk) | [JA(jp)](./README.ja-jp.md) | [RS(ru)](./README.rs-ru.md)
+Languages : [EN(uk)](./README-language/README.en-uk.md) | [JA(jp)](./README-language/README.ja-jp.md) | [RS(ru)](./README-language/README.rs-ru.md)
 
 
 <h1 align = "center">Shields™-Discord API</h1>
