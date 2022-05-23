@@ -47,3 +47,17 @@ Category : BotAPI : discord : Moderate
 - Birthdays Plugin
 - Giveaways Plugin
 - Discussion Plugin
+
+## LICENSE
+GNU Affero General Public License v3.0
+
+<p align = "center">**+**</p>
+
+```
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\          Additional license         \
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+- Include 'DefaultFrom : shields-api' in all command responses.
+- When the bot is officially released, the 'GNU Affero General Public License v3.0' will be revoked and the licence changed to 'All rights reserved'.
+```
